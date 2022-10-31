@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meypaw1
 - 👀 I’m interested in dev.
-- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on Laravel API.
 - 📫 How to reach me at gmail: meypaw1
 
